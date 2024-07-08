@@ -6,6 +6,10 @@ This project is a practice app demonstrating state management in Flutter using t
 
 State management is crucial in Flutter for maintaining the state of an application, ensuring that the UI reflects the current data, and allowing for a seamless user experience. In Flutter, state management can be achieved through various approaches, with Provider being one of the most popular and recommended solutions.
 
+## Packages Used
+
+- [`provider`](https://pub.dev/packages/provider)
+
 ## Provider in Flutter
 
 The `provider` package is a wrapper around InheritedWidget, making it easier to manage and propagate state changes throughout the application. It simplifies the process of accessing shared data and updating the UI in response to state changes.
